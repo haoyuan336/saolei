@@ -1,0 +1,190 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 92008,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 13320,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 29508,
+            "byteOffset": 13320,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 29508,
+            "byteOffset": 42828,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 19672,
+            "byteOffset": 72336,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 6660,
+            "bufferView": 0,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2459,
+            "bufferView": 1,
+            "byteOffset": 0,
+            "min": [
+                -0.033671323210001,
+                -0.0124537274241447,
+                -0.0453391000628471
+            ],
+            "max": [
+                0.00476209167391062,
+                0.0124537274241447,
+                0.0218772739171982
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2459,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 2459,
+            "bufferView": 3,
+            "byteOffset": 0
+        }
+    ],
+    "images": [
+        {
+            "name": " DORGON_1 .png",
+            "uri": " DORGON_1 .png"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "textures": [
+        {
+            "name": "base_color_texture",
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0,
+                    "texCoord": 0
+                },
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.229415729641914
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Cylinder",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Cylinder",
+            "translation": [
+                0.275562644004822,
+                0.0478249080479145,
+                6.42569863984477e-09
+            ],
+            "rotation": [
+                -0.395593553781509,
+                0.586093723773956,
+                -0.586093604564667,
+                0.39559343457222
+            ],
+            "scale": [
+                54.3819847106934,
+                54.3819847106934,
+                54.3819847106934
+            ],
+            "mesh": 0
+        }
+    ]
+}

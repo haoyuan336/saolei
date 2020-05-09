@@ -1,0 +1,218 @@
+2020-03-19 10:59:56-log: ui-kit@1.0.0 enable
+2020-03-19 10:59:56-log: ipc@1.0.0 enable
+2020-03-19 10:59:56-log: tester@1.0.0 enable
+2020-03-19 10:59:56-log: preferences@1.0.0 enable
+2020-03-19 10:59:59-log: engine@1.0.0 enable
+2020-03-19 10:59:59-log: asset-db@1.0.0 enable
+2020-03-19 10:59:59-log: console@1.0.0 enable
+2020-03-19 10:59:59-log: scene@1.0.0 enable
+2020-03-19 10:59:59-log: packager@1.0.0 enable
+2020-03-19 10:59:59-log: project-setting@1.0.0 enable
+2020-03-19 10:59:59-log: about@1.0.0 enable
+2020-03-19 10:59:59-log: server@1.0.0 enable
+2020-03-19 10:59:59-log: utils@1.0.0 enable
+2020-03-19 10:59:59-log: profile@1.0.0 enable
+2020-03-19 11:00:00-log: assets@1.0.0 enable
+2020-03-19 11:00:00-log: inspector@1.0.0 enable
+2020-03-19 11:00:00-log: hierarchy@1.0.0 enable
+2020-03-19 11:00:00-log: preview@1.0.0 enable
+2020-03-19 11:00:00-log: animator@1.0.0 enable
+2020-03-19 11:00:00-log: builder@1.0.0 enable
+2020-03-19 11:00:00-log: alipay-mini-game@1.0.0 enable
+2020-03-19 11:00:00-log: android@1.0.0 enable
+2020-03-19 11:00:00-log: baidu-mini-game@1.0.0 enable
+2020-03-19 11:00:00-log: cocos-play@1.0.0 enable
+2020-03-19 11:00:00-log: huawei-mini-game@1.0.0 enable
+2020-03-19 11:00:00-log: ios@1.0.0 enable
+2020-03-19 11:00:00-log: mac@1.0.0 enable
+2020-03-19 11:00:00-log: native@1.0.0 enable
+2020-03-19 11:00:00-log: oppo-mini-game@1.0.0 enable
+2020-03-19 11:00:00-log: vivo-mini-game@1.0.0 enable
+2020-03-19 11:00:00-log: web-desktop@1.0.0 enable
+2020-03-19 11:00:00-log: web-mobile@1.0.0 enable
+2020-03-19 11:00:00-log: wechatgame@1.0.0 enable
+2020-03-19 11:00:00-log: windows@1.0.0 enable
+2020-03-19 11:00:00-log: xiaomi-quick-game@1.0.0 enable
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:08:59-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:09:00-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:13-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:14-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:15-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:11:15-error: [Scene] Not found sampler on binding unit 25
+2020-03-19 11:12:26-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn/assets/Mash/Dargon.mtl) saved
