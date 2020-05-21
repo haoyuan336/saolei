@@ -16,9 +16,9 @@ export class Global {
         //row 行  col 列
         let row = Math.floor(index / 10);
         let col = index % 10;
-
+        this.checkMap = {};
         this.findLei(col, row, target, () => {
-            console.log("检测完了");
+            console.log("检测完了", this.checkMap);
         });
     }
     private findLei(col, row, node, cb) {
