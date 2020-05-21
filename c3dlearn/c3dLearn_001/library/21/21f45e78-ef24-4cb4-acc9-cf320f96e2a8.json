@@ -32,7 +32,7 @@
     "_globals": {
       "__id__": 8
     },
-    "_id": "f46876e4-e81b-4931-b493-6d367be385e7"
+    "_id": "21f45e78-ef24-4cb4-acc9-cf320f96e2a8"
   },
   {
     "__type__": "cc.Node",
@@ -94,6 +94,7 @@
     },
     "_useColorTemperature": false,
     "_colorTemperature": 6550,
+    "_bakeType": 0,
     "_illuminance": 65000,
     "_id": "597uMYCbhEtJQc0ffJlcgA"
   },
@@ -151,6 +152,7 @@
     "_projection": 1,
     "_priority": 0,
     "_fov": 45,
+    "_fovAxis": 0,
     "_orthoHeight": 10,
     "_near": 1,
     "_far": 1000,
@@ -171,6 +173,9 @@
       "width": 1,
       "height": 1
     },
+    "_aperture": 19,
+    "_shutter": 7,
+    "_iso": 0,
     "_screenScale": 1,
     "_visibility": 1822425087,
     "_targetTexture": null,

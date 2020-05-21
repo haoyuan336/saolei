@@ -1,12 +1,12 @@
 {
-  "ver": "1.3.16",
+  "ver": "1.3.19",
   "importer": "fbx",
   "imported": true,
   "uuid": "dec8a87c-9595-4b6c-89da-57e8919b815e",
   "files": [],
   "subMetas": {
     "4e187": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "dec8a87c-9595-4b6c-89da-57e8919b815e@4e187",
       "imported": true,
@@ -23,7 +23,7 @@
       "name": "文本.mesh"
     },
     "ea6e2": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "dec8a87c-9595-4b6c-89da-57e8919b815e@ea6e2",
       "imported": true,
@@ -39,7 +39,7 @@
       "name": "DefaultMaterial.material"
     },
     "f387c": {
-      "ver": "1.0.9",
+      "ver": "1.0.11",
       "importer": "gltf-scene",
       "uuid": "dec8a87c-9595-4b6c-89da-57e8919b815e@f387c",
       "imported": true,

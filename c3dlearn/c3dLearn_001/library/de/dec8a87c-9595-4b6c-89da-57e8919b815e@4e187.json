@@ -10,16 +10,8 @@
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 50064,
-            "length": 12516,
-            "count": 3129,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 62580,
+          "offset": 50064,
           "length": 2904,
           "count": 1452,
           "stride": 2
@@ -69,8 +61,13 @@
       "x": 0.0022093106526881456,
       "y": 0.003997007384896278,
       "z": 0.0004999980446882546
+    },
+    "morph": {
+      "subMeshMorphs": [
+        null
+      ]
     }
   },
-  "_dataLength": 65484,
-  "_hash": 326172910
+  "_dataLength": 52968,
+  "_hash": 3589583240
 }

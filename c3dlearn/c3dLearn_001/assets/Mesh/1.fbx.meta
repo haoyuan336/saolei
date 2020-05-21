@@ -1,12 +1,12 @@
 {
-  "ver": "1.3.16",
+  "ver": "1.3.19",
   "importer": "fbx",
   "imported": true,
   "uuid": "5e46181b-53f1-42ec-8ec3-706f027f71af",
   "files": [],
   "subMetas": {
     "d11d9": {
-      "ver": "1.0.8",
+      "ver": "1.0.9",
       "importer": "gltf-mesh",
       "uuid": "5e46181b-53f1-42ec-8ec3-706f027f71af@d11d9",
       "imported": true,
@@ -23,7 +23,7 @@
       "name": "Text.mesh"
     },
     "ea6e2": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "5e46181b-53f1-42ec-8ec3-706f027f71af@ea6e2",
       "imported": true,
@@ -39,7 +39,7 @@
       "name": "DefaultMaterial.material"
     },
     "35df0": {
-      "ver": "1.0.9",
+      "ver": "1.0.11",
       "importer": "gltf-scene",
       "uuid": "5e46181b-53f1-42ec-8ec3-706f027f71af@35df0",
       "imported": true,

@@ -1,699 +1,141 @@
-2020-05-08 18:12:39-warn: [Window] Error: 会话钥匙无效
-2020-05-08 18:12:56-log: ui-kit@1.0.0 enable
-2020-05-08 18:12:56-log: ipc@1.0.0 enable
-2020-05-08 18:12:56-log: tester@1.0.0 enable
-2020-05-08 18:12:56-log: preferences@1.0.0 enable
-2020-05-08 18:12:58-log: engine@1.0.0 enable
-2020-05-08 18:12:59-log: asset-db@1.0.0 enable
-2020-05-08 18:12:59-log: console@1.0.0 enable
-2020-05-08 18:12:59-log: scene@1.0.0 enable
-2020-05-08 18:12:59-log: packager@1.0.0 enable
-2020-05-08 18:12:59-log: project-setting@1.0.0 enable
-2020-05-08 18:12:59-log: about@1.0.0 enable
-2020-05-08 18:13:00-log: server@1.0.0 enable
-2020-05-08 18:13:00-log: utils@1.0.0 enable
-2020-05-08 18:13:00-log: profile@1.0.0 enable
-2020-05-08 18:13:00-log: assets@1.0.0 enable
-2020-05-08 18:13:00-log: inspector@1.0.0 enable
-2020-05-08 18:13:00-log: hierarchy@1.0.0 enable
-2020-05-08 18:13:00-log: preview@1.0.0 enable
-2020-05-08 18:13:00-log: animator@1.0.0 enable
-2020-05-08 18:13:00-warn: Port 7456 is occupied
-2020-05-08 18:13:01-log: builder@1.0.0 enable
-2020-05-08 18:13:01-log: alipay-mini-game@1.0.0 enable
-2020-05-08 18:13:01-log: android@1.0.0 enable
-2020-05-08 18:13:01-log: baidu-mini-game@1.0.0 enable
-2020-05-08 18:13:01-log: cocos-play@1.0.0 enable
-2020-05-08 18:13:01-log: huawei-mini-game@1.0.0 enable
-2020-05-08 18:13:01-log: ios@1.0.0 enable
-2020-05-08 18:13:01-log: mac@1.0.0 enable
-2020-05-08 18:13:01-log: native@1.0.0 enable
-2020-05-08 18:13:01-log: oppo-mini-game@1.0.0 enable
-2020-05-08 18:13:01-log: vivo-mini-game@1.0.0 enable
-2020-05-08 18:13:01-log: web-desktop@1.0.0 enable
-2020-05-08 18:13:01-log: web-mobile@1.0.0 enable
-2020-05-08 18:13:01-log: wechatgame@1.0.0 enable
-2020-05-08 18:13:01-log: windows@1.0.0 enable
-2020-05-08 18:13:01-log: xiaomi-quick-game@1.0.0 enable
-2020-05-08 18:14:23-warn: [Asset DB] Browserslist: caniuse-lite is outdated. Please run next command `npm update`
-2020-05-08 18:15:04-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:15:35-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:15:56-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:16:14-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:16:25-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:16:47-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:17:13-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:17:37-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:23:39-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:28:29-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:28:57-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:29:13-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:19-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:20-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:21-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:22-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:23-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:24-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:25-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:29:26-error: [preview-error]Uncaught TypeError: cc.initialization is not a function in http://localhost:7457/scripting/assets/Scripts/MainNode.js
-2020-05-08 18:30:16-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:31:37-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:31:57-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:33:37-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:34:54-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:35:15-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:35:26-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:37:00-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:37:13-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:37:17-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:37:44-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:38:09-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:38:09-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:38:10-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:38:30-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:39:11-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:39:46-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:40:09-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:40:20-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:40:33-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:40:38-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:41:00-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:41:23-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:41:40-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:42:01-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:42:15-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:42:23-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:42:31-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:42:41-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:43:09-warn: [Scene] create component failed: c9DMICJLFO5IeO07EPon7U does not exist
-2020-05-08 18:43:09-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:54:52-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:55:26-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:55:35-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:56:12-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:56:21-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:56:32-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:57:25-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:57:25-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:57:36-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:57:37-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:57:54-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:57:55-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:57:55-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 18:58:03-warn: Error: ENOENT: no such file or directory, open ''
-2020-05-08 18:58:04-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 18:59:46-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:00:06-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:00:07-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:00:07-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:00:07-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:01:37-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:01:41-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:07:57-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:08:53-warn: [Scene] The 'default' attribute of 'Cell.numList' must be an array
-2020-05-08 19:08:53-warn: [Scene] The 'default' attribute of 'Cell.numList' must be an array
-2020-05-08 19:08:53-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:09:21-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:24-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:24-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:29-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:29-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:29-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:29-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:29-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:29-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:30-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:09:31-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:10:52-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:10:54-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:11:20-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:14:17-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:21-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:21-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:21-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:42-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:42-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:14:52-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:52-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:14:52-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:15:04-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:24:42-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:24:45-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:24:47-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:24:51-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:24:51-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:24:51-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:25:31-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:25:32-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:25:35-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:27:13-error: [Asset DB] Failed to transform script /Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Scripts/Cell.ts: SyntaxError: /Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Scripts/Cell.ts: Unexpected token (10:11)
+2020-05-21 11:41:33-log: ui-kit@1.0.0 enable
+2020-05-21 11:41:33-log: ipc@1.0.0 enable
+2020-05-21 11:41:33-log: tester@1.0.0 enable
+2020-05-21 11:41:33-log: preferences@1.0.0 enable
+2020-05-21 11:41:35-log: engine@1.0.0 enable
+2020-05-21 11:41:35-log: asset-db@1.0.0 enable
+2020-05-21 11:41:35-log: console@1.0.0 enable
+2020-05-21 11:41:35-log: scene@1.0.0 enable
+2020-05-21 11:41:35-log: packager@1.0.0 enable
+2020-05-21 11:41:35-log: project-setting@1.0.0 enable
+2020-05-21 11:41:35-log: about@1.0.0 enable
+2020-05-21 11:41:35-log: server@1.0.0 enable
+2020-05-21 11:41:35-log: utils@1.0.0 enable
+2020-05-21 11:41:35-log: profile@1.0.0 enable
+2020-05-21 11:41:35-log: assets@1.0.0 enable
+2020-05-21 11:41:35-log: inspector@1.0.0 enable
+2020-05-21 11:41:35-log: hierarchy@1.0.0 enable
+2020-05-21 11:41:35-log: preview@1.0.0 enable
+2020-05-21 11:41:35-log: animator@1.0.0 enable
+2020-05-21 11:41:35-warn: Port 7456 is occupied
+2020-05-21 11:41:36-log: builder@1.0.0 enable
+2020-05-21 11:41:36-log: lightmap@1.0.0 enable
+2020-05-21 11:41:36-log: alipay-mini-game@1.0.0 enable
+2020-05-21 11:41:36-log: android@1.0.0 enable
+2020-05-21 11:41:36-log: baidu-mini-game@1.0.0 enable
+2020-05-21 11:41:36-log: cocos-play@1.0.0 enable
+2020-05-21 11:41:36-log: huawei-mini-game@1.0.0 enable
+2020-05-21 11:41:36-log: ios@1.0.0 enable
+2020-05-21 11:41:36-log: mac@1.0.0 enable
+2020-05-21 11:41:36-log: native@1.0.0 enable
+2020-05-21 11:41:36-log: oppo-mini-game@1.0.0 enable
+2020-05-21 11:41:36-log: vivo-mini-game@1.0.0 enable
+2020-05-21 11:41:36-log: web-desktop@1.0.0 enable
+2020-05-21 11:41:36-log: web-mobile@1.0.0 enable
+2020-05-21 11:41:36-log: wechatgame@1.0.0 enable
+2020-05-21 11:41:36-log: windows@1.0.0 enable
+2020-05-21 11:41:36-log: xiaomi-quick-game@1.0.0 enable
+2020-05-21 11:43:28-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 11:43:36-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:29:47-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:30:12-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:30:13-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:30:13-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:44:55-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:45:03-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:45:03-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:45:13-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:46:12-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:46:21-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:48:50-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scene/New Scene.scene) saved
+2020-05-21 17:50:07-warn: [Scene] create component failed: c9DMICJLFO5IeO07EPon7U does not exist
+2020-05-21 17:50:08-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 17:50:10-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 17:50:18-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 17:50:18-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:03:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:05:49-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:05:59-error: [preview-error]Uncaught TypeError: Cannot read property 'node' of null in http://localhost:7457/scripting/assets/Scripts/MainNode.js
+2020-05-21 18:14:21-error: [preview-error]Uncaught TypeError: Cannot read property 'node' of null in http://localhost:7457/scripting/assets/Scripts/MainNode.js
+2020-05-21 18:15:11-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:15:11-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:15:11-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:28:41-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:29:38-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:36:05-error: [Asset DB] Failed to transform script /Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scripts/GlobalIns.ts: SyntaxError: /Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scripts/GlobalIns.ts: Support for the experimental syntax 'exportDefaultFrom' isn't currently enabled (6:8):
 
-   8 |     // private numList[] = [];
-   9 |     @property([cc.Node])
-> 10 |     numList[] =[];
-     |            ^
-  11 |     start() {
-  12 |     }
-  13 |  [uuid: 515dfa37-e440-4a4e-bdf1-b384fe2252c1]
-2020-05-08 19:27:14-error: [Scene] Script "515dfo35EBKTr3xs4T+IlLB" attached to "Cell" in prefab "Cell" is missing or invalid. Detailed information:
+  4 |     }
+  5 | }
+> 6 | export name;
+    |        ^
+
+Add @babel/plugin-proposal-export-default-from (https://git.io/vb4yH) to the 'plugins' section of your Babel config to enable transformation. {asset(7e036f4f-1c3f-4fd1-895d-826eeec38876)}
+2020-05-21 18:36:21-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:42:40-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:45:26-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:45:26-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:45:26-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:47:11-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:47:11-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:48:26-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:48:27-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:48:49-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:48:49-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:48:49-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:48:50-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:49:44-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:49:44-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:49:45-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:49:45-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:50:19-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:50:20-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:50:20-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:51:40-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:51:40-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:51:40-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:53:14-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:53:14-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 18:53:14-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:23-error: [Asset DB] Failed to transform script /Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scripts/Global.ts: SyntaxError: /Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Scripts/Global.ts: Unexpected token (61:5)
+
+  59 |         }
+  60 |         // console.log("lei count", leiCount);
+> 61 |     },
+     |      ^
+  62 |     public static getInstance() {
+  63 |         if (this.instance == null) {
+  64 |             this.instance = new Global(); {asset(b058b17f-ad2c-491d-aee2-e53ad4dd31f4)}
+2020-05-21 19:00:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:23-error: [Scene] Error: Error loading file:///Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/library/b0/b058b17f-ad2c-491d-aee2-e53ad4dd31f4.js from project:///assets/Scripts/Cell.js
+2020-05-21 19:00:24-error: [Scene] Script "515dfo35EBKTr3xs4T+IlLB" attached to "Cell" in prefab "Cell" is missing or invalid. Detailed information:
 Asset url: "db://assets/Prefab/Cell"
 Script UUID: "515dfa37-e440-4a4e-bdf1-b384fe2252c1"
 Class ID: "515dfo35EBKTr3xs4T+IlLB"
 
-2020-05-08 19:27:33-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:27:34-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:27:35-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:27:36-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
-2020-05-08 19:27:44-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:27:44-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:28:14-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:28:15-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:28:19-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:28:22-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:28:23-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:28:23-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:30:51-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:31:06-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:31:13-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:31:13-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:31:13-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:34:21-warn: [Scene] There were some problems with the data parsing: null
-2020-05-08 19:36:53-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:36:53-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:36:53-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:36:53-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:36:53-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:37:03-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:37:03-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:37:03-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:37:03-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:37:13-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:37:13-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:37:13-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:37:13-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:37:13-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:38:12-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:38:12-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:38:12-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:38:12-warn: [Scene] Please specifiy a default value for "Cell" property at its declaration:
- 
-// Before:
-@property(...)
-value;
-// After:
-@property(...)
-value = 0 start
-2020-05-08 19:38:12-error: [Scene] Can not declare Cell.start, it is already defined in the prototype of Cell
-2020-05-08 19:38:16-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:39:06-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:39:12-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:39:41-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:40:01-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:40:09-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:40:23-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:40:23-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:40:24-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:40:24-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:44:17-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:44:44-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:44:50-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:45:50-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:50:19-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:50:59-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:51:17-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:52:05-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:52:38-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:57:37-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-08 19:58:22-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-09 10:23:54-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
-2020-05-09 10:24:52-info: asset(/Users/chy/workspace/c3dlearn/c3dLearn_001/assets/New Scene.scene) saved
+2020-05-21 19:00:25-error: [Build] Error: Error loading file:///Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/library/b0/b058b17f-ad2c-491d-aee2-e53ad4dd31f4.js from project:///assets/Scripts/Cell.js
+2020-05-21 19:00:29-error: [preview-error]load http://localhost:7457/scripting/assets/Scripts/Global.js failed
+2020-05-21 19:00:34-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:34-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:34-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:40-error: [preview-error]load http://localhost:7457/scripting/assets/Scripts/Global.js failed
+2020-05-21 19:00:53-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:54-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:00:54-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:02:57-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:02:58-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:02:58-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:10:22-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:10:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:10:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:15:45-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:15:45-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:15:45-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:16:02-error: [preview-error]Uncaught RangeError: Maximum call stack size exceeded in http://localhost:7457/scripting/assets/Scripts/Global.js
+2020-05-21 19:16:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:16:23-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:16:24-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:20:24-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:20:25-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved
+2020-05-21 19:20:25-info: asset(/Users/chy/workspace/saolei/c3dlearn/c3dLearn_001/assets/Prefab/Cell.prefab) saved

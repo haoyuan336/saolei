@@ -1,3 +1,5 @@
 {
-    "resolveMap": {}
+    "resolveMap": {
+        "./Global": "Global.ts"
+    }
 }
