@@ -17,9 +17,20 @@ export class Global {
         let row = Math.floor(index / 10);
         let col = index % 10;
         this.checkMap = {};
+        if (isLei) {
+            this.touchLei();
+            return;
+        }
         this.findLei(col, row, target, () => {
             console.log("检测完了", this.checkMap);
         });
+    }
+    public touchLei() {
+        console.log("摸到雷了");
+        for (let i = 0; i < this.cellNodeList.length; i++) {
+            let node = this.cellNodeList[i];
+            node.emit("show-lei");
+        }
     }
     private findLei(col, row, node, cb) {
         let leiCount = 0;
@@ -38,11 +49,7 @@ export class Global {
                         if (isLei) {
                             leiCount++;
                         } else {
-                            // console.log("col", col);
-                            // console.log("row", row);
-                            // console.log("c", c);
-                            // console.log("r", r);
-                            // this.findLei(c, r, target, cb);
+
                         }
                     }
                 }

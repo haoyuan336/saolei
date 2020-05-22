@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, Prefab, PhysicsSystem, instantiate, Vec3, SystemEventType, geometry, CameraComponent } from "cc";
+import { _decorator, Component, Node, Prefab, PhysicsSystem,ColliderComponent, instantiate, Vec3, Vec2, SystemEventType, geometry, CameraComponent } from "cc";
 import { Global } from "./Global";
 const { ray } = geometry;
 const { ccclass, property } = _decorator;
@@ -16,6 +16,8 @@ export class MainNode extends Component {
     @property({ type: CameraComponent })
     private cameraComp = null;
     private outRay = new ray();
+    private touchStartPos: Vec2 = null;
+    private currentCollider = null;
     start() {
         // Your initialization goes here.
         let leiList = {};
@@ -42,18 +44,41 @@ export class MainNode extends Component {
             }
         }
         cc.systemEvent.on(SystemEventType.TOUCH_START, (touch, event) => {
-            let pos = event.getLocation();
+            let pos = touch.getLocation();
+            this.touchStartPos = new Vec2(pos.x, pos.y);
             console.log("pos", pos);
             // const outRay = new ray();
-            this.cameraComp.screenPointToRay(touch._point.x, touch._point.y, this.outRay);
+            this.cameraComp.screenPointToRay(pos.x, pos.y, this.outRay);
+            // this.cameraComp.screenPointToRay(touch._point.x, touch._point.y, this.outRay);
             if (PhysicsSystem.instance.raycastClosest(this.outRay)) {
                 console.log("true");
                 let result = PhysicsSystem.instance.raycastClosestResult;
-                console.log("result", result);
+                // console.log("result", result);
                 // result.node.emit("click",)
-                result.collider.node.emit("click");
+                // result.collider.node.emit("click");
+                this.currentCollider = result.collider;
             }
         }, this.node);
+        cc.systemEvent.on(SystemEventType.TOUCH_MOVE, (touch, event) => {
+            if (this.touchStartPos) {
+                let pos = touch.getLocation();
+                let touchVec = new Vec2(pos.x, pos.y);
+                let dis = touchVec.subtract(this.touchStartPos).length();
+                if (dis > 40) {
+                    this.touchStartPos = undefined;
+                    console.log(" dis", dis);
+                    if (this.currentCollider){
+                        this.currentCollider.node.emit("scroll");
+                    }
+
+                }
+            }
+        });
+        cc.systemEvent.on(SystemEventType.TOUCH_END, ()=>{
+            if (this.currentCollider){
+                this.currentCollider.node.emit("click");
+            }
+        });
     }
 
     // update (deltaTime: number) {
